@@ -17,9 +17,8 @@ The motivation behind this application is to provide a close to real life experi
 1. Users go through a series of questions on the rules and best practices when cycling on Singapore roads/walkways.
 2. Users are able to cycle around a virtual world.
 
-# Authors |
---------- |
-Ryan – Integrator 
-Odell – Backbone programmer 
-Syazwan – UX designer 
-Jia Shin – Just a scrub. 
+# Authors 
+1. Ryan – Integrator 
+2. Odell – Backbone programmer
+3. Syazwan – UX designer 
+4. Jia Shin – Just a scrub. 
