@@ -9,14 +9,15 @@ public class score : MonoBehaviour {
 
 
     public Text countText;
+    public Text winText;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         Ocount = 500;
         countText.text = "Score: " + Ocount.ToString();
 
         InvokeRepeating("Tick", 5, 5);
-
+        winText.text = "";
     }
 	
 	// Update is called once per frame
@@ -58,6 +59,9 @@ public class score : MonoBehaviour {
     {
         Ocount = Ocount+100;
         countText.text = "Score: " + Ocount.ToString();
+        if(Ocount >=1000){
+            winText.text = "You WIN! \n Restart?";
+        }
     }
 
     IEnumerator Timer()
