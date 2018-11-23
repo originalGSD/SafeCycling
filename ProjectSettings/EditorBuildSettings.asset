@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/urban.unity
     guid: a87100edc548c9a4485ee9e90977abf1
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: 2bce0d91544ddb44f9f1bacec81208de
   m_configObjects: {}
