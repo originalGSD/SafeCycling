@@ -7,9 +7,13 @@ The motivation behind this application is to provide a close to real life experi
 </br> </br>
 
 # Getting Started
-* Download the APK file from our GitHub.
-* Install it to your phone.
-* Launch the application and start cycling.
+1. Download the APK file from this link https://drive.google.com/open?id=13mLN3LM5g00tT1whAg7HiSyzvF023yXv
+2. Install it to your smartphone
+3. Launch the application and start cycling
+</br> </br>
+
+# Video Demo
+* Watch on youtube: https://www.youtube.com/watch?v=CZOaFRJ6qcc&feature=youtu.be
 </br> </br>
 
 # Prerequisites
@@ -28,15 +32,15 @@ The motivation behind this application is to provide a close to real life experi
 * Free roam
 * Collision detecter
 * Scoring system
+* Ability to change the number of pedestrians and vehicles.
 </br> </br>
 
 # Gameplay
-![ss1](https://user-images.githubusercontent.com/45250382/48966270-376c0c80-f009-11e8-8eb4-ee19a58b7197.jpeg)
-![ss2](https://user-images.githubusercontent.com/45250382/48966274-4b177300-f009-11e8-90a5-1baf3be18004.jpeg)
+![ss3](https://i.imgur.com/YSpVgnr.png)
 </br> </br>
 
 # Authors
-1. Ryan  
-2. Odell 
+1. Ryan
+2. Odell
 3. Syazwan 
 4. Jia Shin
