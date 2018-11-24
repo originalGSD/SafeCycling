@@ -13,7 +13,7 @@ The motivation behind this application is to provide a close to real life experi
 </br> </br>
 
 # Video Demo
-1. Watch on youtube: https://www.youtube.com/watch?v=CZOaFRJ6qcc&feature=youtu.be
+* Watch on youtube: https://www.youtube.com/watch?v=CZOaFRJ6qcc&feature=youtu.be
 </br> </br>
 
 # Prerequisites
