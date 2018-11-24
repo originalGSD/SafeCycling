@@ -38,6 +38,7 @@ The motivation behind this application is to provide a close to real life experi
 # Gameplay
 ![ss1](https://user-images.githubusercontent.com/45250382/48966270-376c0c80-f009-11e8-8eb4-ee19a58b7197.jpeg)
 ![ss2](https://user-images.githubusercontent.com/45250382/48966274-4b177300-f009-11e8-90a5-1baf3be18004.jpeg)
+![ss3](https://i.imgur.com/YSpVgnr.png)
 </br> </br>
 
 # Authors
