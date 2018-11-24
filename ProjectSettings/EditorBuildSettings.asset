@@ -56,4 +56,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelEnvs/freeroam.unity
     guid: 8c10b90fca7e34e40a6723f307be8b19
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/freeroamsel.unity
+    guid: 0727537db63c01d43b4849655e6df803
+  - enabled: 1
+    path: Assets/Scenes/LevelEnvs/freeroamnv.unity
+    guid: 129f544c57dbe9241a1fa978b27ef9a0
+  - enabled: 1
+    path: Assets/Scenes/LevelEnvs/freeroamnvp.unity
+    guid: d3dc7db623adaa44ba41ffc6cdf333f5
   m_configObjects: {}
