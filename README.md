@@ -24,6 +24,11 @@ The motivation behind this application is to provide a close to real life experi
 * Collision detecter
 * Scoring system
 
+
+# Gameplay
+![alt text](https://imgur.com/35ylSpx)
+![alt text](https://imgur.com/EVtnVEs)
+
 # Authors
 1. Ryan  
 2. Odell 
