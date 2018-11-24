@@ -10,7 +10,10 @@ The motivation behind this application is to provide a close to real life experi
 1. Download the APK file from this link https://drive.google.com/open?id=13mLN3LM5g00tT1whAg7HiSyzvF023yXv
 2. Install it to your smartphone
 3. Launch the application and start cycling
-4. Still unsure on how to play Safe-Riding-VR? Visit this link for a walkthrough: https://www.youtube.com/watch?v=CZOaFRJ6qcc&feature=youtu.be
+</br> </br>
+
+# Video Demo
+1. Watch on youtube: https://www.youtube.com/watch?v=CZOaFRJ6qcc&feature=youtu.be
 </br> </br>
 
 # Prerequisites
