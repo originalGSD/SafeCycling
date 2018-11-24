@@ -1,6 +1,7 @@
 # Safe-Riding-VR
 Safe Riding VR application. This virtual reality application is developed due to the number of increasing road accidents in recent years affecting cyclists. This application addresses the lack of road safety education for cyclists. In addition, this application allows other road users to empathise with cyclists.
-</br>
+</br> </br>
+
 # Objective
 The motivation behind this application is to provide a close to real life experience to raise awareness on the best practices as well as the importance of safe riding and defensive riding on Singapore’s road environment.
 
