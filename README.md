@@ -4,31 +4,36 @@ Safe Riding VR application. This virtual reality application is developed due to
 
 # Objective
 The motivation behind this application is to provide a close to real life experience to raise awareness on the best practices as well as the importance of safe riding and defensive riding on Singapore’s road environment.
+</br> </br>
 
 # Getting Started
 * Download the APK file from our GitHub.
 * Install it to your phone.
 * Launch the application and start cycling.
+</br> </br>
 
 # Prerequisites
 * Google cupboard
 * Smart phone
 * Wide area for player to walk around
+</br> </br>
 
 # Built With
-1. **Unity** – Compile and develop the 3D environment. 
-2. **C#** – Developing the behaviours of each object designed by Unity.
+* **Unity** – Compile and develop the 3D environment. 
+* **C#** – Developing the behaviours of each object designed by Unity.
+</br> </br>
 
 # Features
 * 4 levels
 * Free roam
 * Collision detecter
 * Scoring system
-
+</br> </br>
 
 # Gameplay
 ![ss1](https://user-images.githubusercontent.com/45250382/48966270-376c0c80-f009-11e8-8eb4-ee19a58b7197.jpeg)
 ![ss2](https://user-images.githubusercontent.com/45250382/48966274-4b177300-f009-11e8-90a5-1baf3be18004.jpeg)
+</br> </br>
 
 # Authors
 1. Ryan  
