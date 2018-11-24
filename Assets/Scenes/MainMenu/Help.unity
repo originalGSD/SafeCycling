@@ -662,7 +662,7 @@ TextMesh:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1504629292}
   m_Text: "Hi and welcome to SafeCyclingVR!\n\n                  Game Controls:\n
-    \   Move Forward - Look Downwards\n    Stop and Observe - Look Upwards\nCycle
+    \        Move Forward - Automatic\n     Steer - Move around physically\nCycle
     Through Stages - Point and Click\n                   Quiz Controls:\n    Select
     Answers - Point and Click"
   m_OffsetZ: 0
