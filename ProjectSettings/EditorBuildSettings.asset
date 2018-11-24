@@ -23,4 +23,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Help.unity
     guid: 2bce0d91544ddb44f9f1bacec81208de
+  - enabled: 1
+    path: Assets/Scenes/Quiz/W1.unity
+    guid: da687d0efb001174cb5e45d7682d72f9
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Q1.unity
+    guid: 7287504ced4cb044cba07b128b711f26
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Final.unity
+    guid: 83da98e41e196324191054b0102b885c
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Intro.unity
+    guid: e039824e2ba4e3142bffd05eb95b9228
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Q2.unity
+    guid: 2b49a1cf482afa54b8c64f30d9f932ee
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Q3.unity
+    guid: 3cc2ffda22cc912459205c037760b279
+  - enabled: 1
+    path: Assets/Scenes/Quiz/W2.unity
+    guid: 5ae723a9c6633cb4b85a6c6a8ff5f8df
+  - enabled: 1
+    path: Assets/Scenes/Quiz/W3.unity
+    guid: a0663521ff7c78d47a74cf855eb6b730
+  - enabled: 1
+    path: Assets/Scenes/urbancarless.unity
+    guid: 20aa4fdf0a05f2644812feb60382c76a
+  - enabled: 1
+    path: Assets/Scenes/park.unity
+    guid: 7e04263d0c74e5740a6cf33fa1eec424
   m_configObjects: {}

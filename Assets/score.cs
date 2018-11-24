@@ -42,7 +42,7 @@ public class score : MonoBehaviour {
             StartCoroutine(Timer());
         }
 
-        if (col.gameObject.name.StartsWith("car"))
+        if (col.gameObject.name.StartsWith("common"))
         {
             Ocount = Ocount - 200;
             countText.text = "Score: " + Ocount.ToString();
@@ -60,7 +60,7 @@ public class score : MonoBehaviour {
         Ocount = Ocount+100;
         countText.text = "Score: " + Ocount.ToString();
         if(Ocount >=1000){
-            winText.text = "You WIN! \n Restart?";
+            winText.text = "                       You Win!\n\n   Click to proceed to another stage!";
         }
     }
 

@@ -17,7 +17,7 @@ public class CCount : MonoBehaviour
         Ccount = 0;
 
 
-        countText.text = "Car Crashes:" + Ccount.ToString();
+        countText.text = "Human Crashes:" + Ccount.ToString();
 
     }
 
@@ -31,11 +31,11 @@ public class CCount : MonoBehaviour
     {
 
 
-        if (col.gameObject.name.StartsWith("car"))
+        if (col.gameObject.name.StartsWith("common"))
         {
 
             Ccount = Ccount + 1;
-            countText.text = "Car Crashes: " + Ccount.ToString();
+            countText.text = "Human Crashes: " + Ccount.ToString();
 
 
             StartCoroutine(Timer());
