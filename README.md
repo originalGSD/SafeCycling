@@ -29,6 +29,7 @@ The motivation behind this application is to provide a close to real life experi
 * Free roam
 * Collision detecter
 * Scoring system
+* Ability to change the number of pedestrians and vehicles.
 </br> </br>
 
 # Gameplay
