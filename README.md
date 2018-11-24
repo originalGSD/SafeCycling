@@ -3,7 +3,7 @@ Safe Riding VR application. This virtual reality application is developed due to
 </br> </br>
 
 # Objective
-The motivation behind this application is to provide a close to real life experience to raise awareness on the best practices as well as the importance of safe riding and defensive riding on Singapore’s road environment.
+The motivation behind this application is to provide a close to real life experience to raise awareness on the best practices as well as the importance of safe riding, defensive riding on Singapore’s road environment, and how riders should behave when cycling on roads and walkways.
 </br> </br>
 
 # Getting Started
