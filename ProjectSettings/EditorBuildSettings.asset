@@ -6,22 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/menu.unity
+    path: Assets/Scenes/MainMenu/menu.unity
     guid: 16fbad8f580f5894d9373113fc812fb1
   - enabled: 1
-    path: Assets/Scenes/select.unity
+    path: Assets/Scenes/MainMenu/select.unity
     guid: 2ff7dc00babe12141a2c43a49392be2f
   - enabled: 1
-    path: Assets/Scenes/levelselect.unity
+    path: Assets/Scenes/MainMenu/levelselect.unity
     guid: 4c1ae385c94483a4fac0f95815ed30ea
   - enabled: 1
-    path: Assets/Scenes/PMD.unity
+    path: Assets/Scenes/MainMenu/PMD.unity
     guid: a9bc197eeba1b794d9700523a234332c
   - enabled: 1
-    path: Assets/Scenes/urban.unity
+    path: Assets/Scenes/LevelEnvs/urban.unity
     guid: a87100edc548c9a4485ee9e90977abf1
   - enabled: 1
-    path: Assets/Scenes/Help.unity
+    path: Assets/Scenes/MainMenu/Help.unity
     guid: 2bce0d91544ddb44f9f1bacec81208de
   - enabled: 1
     path: Assets/Scenes/Quiz/W1.unity
@@ -48,9 +48,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Quiz/W3.unity
     guid: a0663521ff7c78d47a74cf855eb6b730
   - enabled: 1
-    path: Assets/Scenes/urbancarless.unity
+    path: Assets/Scenes/LevelEnvs/urbancarless.unity
     guid: 20aa4fdf0a05f2644812feb60382c76a
   - enabled: 1
-    path: Assets/Scenes/park.unity
+    path: Assets/Scenes/LevelEnvs/park.unity
     guid: 7e04263d0c74e5740a6cf33fa1eec424
+  - enabled: 1
+    path: Assets/Scenes/LevelEnvs/freeroam.unity
+    guid: 8c10b90fca7e34e40a6723f307be8b19
   m_configObjects: {}

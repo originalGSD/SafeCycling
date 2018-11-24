@@ -12,6 +12,7 @@ TagManager:
   - level
   - timer
   - Collision
+  - turn
   layers:
   - Default
   - TransparentFX

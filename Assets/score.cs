@@ -37,7 +37,7 @@ public class score : MonoBehaviour {
 
         if (col.gameObject.name.StartsWith("building"))
         {
-            Ocount = Ocount - 100;
+            Ocount = Ocount - 50;
             countText.text = "Score: " + Ocount.ToString();
             StartCoroutine(Timer());
         }
@@ -45,6 +45,13 @@ public class score : MonoBehaviour {
         if (col.gameObject.name.StartsWith("common"))
         {
             Ocount = Ocount - 200;
+            countText.text = "Score: " + Ocount.ToString();
+            StartCoroutine(Timer());
+        }
+
+        if (col.gameObject.name.StartsWith("car"))
+        {
+            Ocount = Ocount - 100;
             countText.text = "Score: " + Ocount.ToString();
             StartCoroutine(Timer());
         }

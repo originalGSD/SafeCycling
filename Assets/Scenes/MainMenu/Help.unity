@@ -179,7 +179,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 550600371}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.41, y: 1.7, z: -4.42}
+  m_LocalPosition: {x: 0.41, y: 1.7, z: -21.71}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 945378911}
@@ -372,7 +372,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 896024424}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.58, y: -12.84, z: 15.67}
+  m_LocalPosition: {x: -9.58, y: -11, z: 15.67}
   m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
   m_Children: []
   m_Father: {fileID: 0}
@@ -629,7 +629,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1496650367}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 5.74, y: 3.61, z: -9.95}
+  m_LocalPosition: {x: 47.9, y: 3.61, z: 14.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -646,9 +646,6 @@ GameObject:
   - component: {fileID: 1504629298}
   - component: {fileID: 1504629297}
   - component: {fileID: 1504629296}
-  - component: {fileID: 1504629295}
-  - component: {fileID: 1504629294}
-  - component: {fileID: 1504629293}
   m_Layer: 0
   m_Name: select
   m_TagString: Untagged
@@ -656,63 +653,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1504629293
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114320174213972848, guid: 01f51b9ca8b17d148b706f6b0893caca,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1504629292}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ac1ee7b429894294290ef38da7041fbc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  level: levelselect
---- !u!65 &1504629294
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 65420647638858074, guid: 01f51b9ca8b17d148b706f6b0893caca,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1504629292}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Size: {x: 59.5, y: 11.171875, z: 0}
-  m_Center: {x: 27.8, y: -5.5859375, z: 0}
---- !u!114 &1504629295
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114240756535578242, guid: 01f51b9ca8b17d148b706f6b0893caca,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1504629292}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 4
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 1504629293}
-          m_MethodName: loadlevel
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: SceneManager.LoadScene("game")
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
-        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  delegates: []
 --- !u!102 &1504629296
 TextMesh:
   serializedVersion: 3
@@ -721,7 +661,10 @@ TextMesh:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1504629292}
-  m_Text: text here
+  m_Text: "Hi and welcome to SafeCyclingVR!\n\n                  Game Controls:\n
+    \   Move Forward - Look Downwards\n    Stop and Observe - Look Upwards\nCycle
+    Through Stages - Point and Click\n                   Quiz Controls:\n    Select
+    Answers - Point and Click"
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -779,7 +722,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1504629292}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.36, y: 6.11, z: 15.67}
+  m_LocalPosition: {x: -23.6, y: 19.4, z: 15.67}
   m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
   m_Children: []
   m_Father: {fileID: 0}
