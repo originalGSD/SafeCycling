@@ -14,10 +14,14 @@ The motivation behind this application is to provide a close to real life experi
 2. **C#** – Developing the behaviours of each object designed by Unity.
 
 # Features
-1. Users go through a series of questions on the rules and best practices when cycling on Singapore roads/walkways.
-2. Users are able to cycle around a virtual world.
+1. 4 levels
+2. Free roam
+3. Collision detecter
+4. Scoring system
+5. Motivational messages
 
-# Authors 
+
+# Authors
 1. Ryan – Integrator 
 2. Odell – Backbone programmer
 3. Syazwan – UX designer 
