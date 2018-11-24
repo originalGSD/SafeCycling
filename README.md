@@ -37,7 +37,7 @@ The motivation behind this application is to provide a close to real life experi
 </br> </br>
 
 # Authors
-1. Ryan  
-2. Odell 
-3. Syazwan 
-4. Jia Shin
+1. Ryan - Developer
+2. Odell - Developer
+3. Syazwan - UX designer
+4. Jia Shin - UX designer
