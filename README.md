@@ -40,7 +40,7 @@ The motivation behind this application is to provide a close to real life experi
 </br> </br>
 
 # Authors
-1. Ryan
+1. Ryan Teng - https://twitter.com/AnirandS (Allegedly stole 600k from a Crypto Project called "Anirand" on the Algorand blockchain)
 2. Odell
 3. Syazwan 
 4. Jia Shin
